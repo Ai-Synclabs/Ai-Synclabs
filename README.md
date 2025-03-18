@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/Ai-Synclabs?style=social" alt="Stars">
 </p>
 
-## 👋 Merhaba, ben **Ai-Synclabs**! 
+## 👋 **Ai-Synclabs**! 
 
 💡 **Yapay zeka, makine öğrenimi ve derin öğrenme alanlarında geniş bir deneyime sahibim.**  
 🔍 **Finans, sağlık, güvenlik ve görüntü işleme sektörlerinde özel yapay zeka çözümleri geliştiriyorum.**  

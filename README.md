@@ -14,7 +14,7 @@
 
 ```bash
 $ whoami
-> ibrahim-devp
+> Ai Synclabs
 
 $ cat /etc/profile.d/skills.sh
 > DATABASE_ENGINES="PostgreSQL MySQL MongoDB Redis CouchBase SingleStore YugabyteDB DataStax"
